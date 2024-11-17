@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "Title": "Fuzzy Model for the Average Delay Time on a Road Ending with a Traffic Light",
+    "Authors": "Alvarez, Johanyák",
+    "DateofPublication": "2018-10-15T00:00:00",
+    "IsOpenSource": false
+  },
+  {
+    "ID": 2,
+    "Title": "Generalization of the single rule reasoning method SURE-LS for the case of arbitrary polygonal shaped fuzzy sets",
+    "Authors": "Johanyák, Alvarez",
+    "DateofPublication": "2008-05-15T00:00:00",
+    "IsOpenSource": true
+  },
+  {
+    "ID": 3,
+    "Title": "New cognitive info-communication channels for human-machine interaction",
+    "Authors": "Kovács",
+    "DateofPublication": "2017-01-01T00:00:00",
+    "IsOpenSource": false
+  }
+]
